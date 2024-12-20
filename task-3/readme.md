@@ -1,4 +1,4 @@
-В данном задании необходимо было подобрать оптимальные параметры ("n_units", 4, 128) ; ("n_layers", 1, 5) с импользованием паекта optuna для сети с архитектурой: Conv2D - Flatten - {Linear - ReLU - Dropout} * n_layers
+В данном задании необходимо было подобрать оптимальные параметры ("n_units", 4, 128) ; ("n_layers", 1, 5) с импользованием паекта optune для сети с архитектурой: Conv2D - Flatten - {Linear - ReLU - Dropout} * n_layers
 ```
 [I 2024-12-20 14:33:34,481] A new study created in memory with name: no-name-d2d30398-69ea-4123-b8f0-f87ce1050c43
 ...
